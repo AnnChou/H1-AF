@@ -1,0 +1,937 @@
+|--- pixel size(mm) <= 0.17
+|   |--- pixel size(mm) <= 0.10
+|   |   |--- pixel size(mm) <= 0.09
+|   |   |   |--- pixel size(mm) <= 0.08
+|   |   |   |   |--- pixel size(mm) <= 0.05
+|   |   |   |   |   |--- pixel size(mm) <= 0.05
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.05
+|   |   |   |   |   |   |   |--- value: [65.80]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.05
+|   |   |   |   |   |   |   |--- value: [69.84]
+|   |   |   |   |   |--- pixel size(mm) >  0.05
+|   |   |   |   |   |   |--- value: [64.30]
+|   |   |   |   |--- pixel size(mm) >  0.05
+|   |   |   |   |   |--- pixel size(mm) <= 0.08
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.07
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.07
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.06
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.06
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.06
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.06
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.06
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.06
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.06
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.06
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.06
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.06
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [88.51]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.06
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [83.96]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.06
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.07
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [79.09]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.07
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [84.11]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.07
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.07
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.07
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.07
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [72.80]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.07
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.07
+|   |   |   |   |   |   |   |   |   |   |--- value: [44.30]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.07
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.07
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.07
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.07
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [67.10]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.07
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.07
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [92.60]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.07
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |--- pixel size(mm) >  0.07
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.08
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.08
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.08
+|   |   |   |   |   |   |   |   |   |   |--- value: [88.81]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.08
+|   |   |   |   |   |   |   |   |   |   |--- value: [95.30]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.08
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.08
+|   |   |   |   |   |   |   |   |   |   |--- value: [77.56]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.08
+|   |   |   |   |   |   |   |   |   |   |--- value: [78.30]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.08
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.08
+|   |   |   |   |   |   |   |   |   |--- value: [100.70]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.08
+|   |   |   |   |   |   |   |   |   |--- value: [100.99]
+|   |   |   |   |   |--- pixel size(mm) >  0.08
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.08
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.08
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.08
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.08
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.08
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [69.64]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.08
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [60.26]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.08
+|   |   |   |   |   |   |   |   |   |   |--- value: [76.20]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.08
+|   |   |   |   |   |   |   |   |   |--- value: [62.10]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.08
+|   |   |   |   |   |   |   |   |--- value: [78.50]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.08
+|   |   |   |   |   |   |   |--- value: [62.92]
+|   |   |   |--- pixel size(mm) >  0.08
+|   |   |   |   |--- pixel size(mm) <= 0.08
+|   |   |   |   |   |--- pixel size(mm) <= 0.08
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.08
+|   |   |   |   |   |   |   |--- value: [98.37]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.08
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.08
+|   |   |   |   |   |   |   |   |--- value: [72.87]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.08
+|   |   |   |   |   |   |   |   |--- value: [71.91]
+|   |   |   |   |   |--- pixel size(mm) >  0.08
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.08
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.08
+|   |   |   |   |   |   |   |   |--- value: [122.00]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.08
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.08
+|   |   |   |   |   |   |   |   |   |--- value: [105.00]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.08
+|   |   |   |   |   |   |   |   |   |--- value: [101.14]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.08
+|   |   |   |   |   |   |   |--- value: [130.50]
+|   |   |   |   |--- pixel size(mm) >  0.08
+|   |   |   |   |   |--- pixel size(mm) <= 0.08
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.08
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.08
+|   |   |   |   |   |   |   |   |--- value: [70.11]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.08
+|   |   |   |   |   |   |   |   |--- value: [95.30]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.08
+|   |   |   |   |   |   |   |--- value: [59.40]
+|   |   |   |   |   |--- pixel size(mm) >  0.08
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.08
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.08
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.08
+|   |   |   |   |   |   |   |   |   |--- value: [103.90]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.08
+|   |   |   |   |   |   |   |   |   |--- value: [99.34]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.08
+|   |   |   |   |   |   |   |   |--- value: [137.30]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.08
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.09
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.09
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.09
+|   |   |   |   |   |   |   |   |   |   |--- value: [76.30]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.09
+|   |   |   |   |   |   |   |   |   |   |--- value: [73.96]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.09
+|   |   |   |   |   |   |   |   |   |--- value: [81.12]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.09
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.09
+|   |   |   |   |   |   |   |   |   |--- value: [135.40]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.09
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.09
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.09
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [71.91]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.09
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [106.52]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.09
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.09
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.09
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |--- pixel size(mm) >  0.09
+|   |   |   |--- pixel size(mm) <= 0.09
+|   |   |   |   |--- pixel size(mm) <= 0.09
+|   |   |   |   |   |--- pixel size(mm) <= 0.09
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.09
+|   |   |   |   |   |   |   |--- value: [158.52]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.09
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.09
+|   |   |   |   |   |   |   |   |--- value: [159.89]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.09
+|   |   |   |   |   |   |   |   |--- value: [159.30]
+|   |   |   |   |   |--- pixel size(mm) >  0.09
+|   |   |   |   |   |   |--- value: [164.96]
+|   |   |   |   |--- pixel size(mm) >  0.09
+|   |   |   |   |   |--- pixel size(mm) <= 0.09
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.09
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.09
+|   |   |   |   |   |   |   |   |--- value: [120.29]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.09
+|   |   |   |   |   |   |   |   |--- value: [163.11]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.09
+|   |   |   |   |   |   |   |--- value: [84.64]
+|   |   |   |   |   |--- pixel size(mm) >  0.09
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.09
+|   |   |   |   |   |   |   |--- value: [148.90]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.09
+|   |   |   |   |   |   |   |--- value: [154.30]
+|   |   |   |--- pixel size(mm) >  0.09
+|   |   |   |   |--- pixel size(mm) <= 0.10
+|   |   |   |   |   |--- pixel size(mm) <= 0.10
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.10
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.10
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.10
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.10
+|   |   |   |   |   |   |   |   |   |   |--- value: [103.85]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.10
+|   |   |   |   |   |   |   |   |   |   |--- value: [119.77]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.10
+|   |   |   |   |   |   |   |   |   |--- value: [99.70]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.10
+|   |   |   |   |   |   |   |   |--- value: [72.51]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.10
+|   |   |   |   |   |   |   |--- value: [170.90]
+|   |   |   |   |   |--- pixel size(mm) >  0.10
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.10
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.10
+|   |   |   |   |   |   |   |   |--- value: [82.28]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.10
+|   |   |   |   |   |   |   |   |--- value: [99.40]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.10
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.10
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.10
+|   |   |   |   |   |   |   |   |   |--- value: [78.84]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.10
+|   |   |   |   |   |   |   |   |   |--- value: [87.32]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.10
+|   |   |   |   |   |   |   |   |--- value: [75.90]
+|   |   |   |   |--- pixel size(mm) >  0.10
+|   |   |   |   |   |--- pixel size(mm) <= 0.10
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.10
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.10
+|   |   |   |   |   |   |   |   |--- value: [163.87]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.10
+|   |   |   |   |   |   |   |   |--- value: [83.42]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.10
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.10
+|   |   |   |   |   |   |   |   |--- value: [167.40]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.10
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.10
+|   |   |   |   |   |   |   |   |   |--- value: [142.34]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.10
+|   |   |   |   |   |   |   |   |   |--- value: [121.30]
+|   |   |   |   |   |--- pixel size(mm) >  0.10
+|   |   |   |   |   |   |--- value: [74.31]
+|   |--- pixel size(mm) >  0.10
+|   |   |--- pixel size(mm) <= 0.12
+|   |   |   |--- pixel size(mm) <= 0.12
+|   |   |   |   |--- pixel size(mm) <= 0.11
+|   |   |   |   |   |--- pixel size(mm) <= 0.11
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.10
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.10
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.10
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.10
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [94.31]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.10
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [164.40]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.10
+|   |   |   |   |   |   |   |   |   |--- value: [100.11]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.10
+|   |   |   |   |   |   |   |   |--- value: [177.78]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.10
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.10
+|   |   |   |   |   |   |   |   |--- value: [70.00]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.10
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.10
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.10
+|   |   |   |   |   |   |   |   |   |   |--- value: [165.90]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.10
+|   |   |   |   |   |   |   |   |   |   |--- value: [177.38]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.10
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.10
+|   |   |   |   |   |   |   |   |   |   |--- value: [82.05]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.10
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |--- pixel size(mm) >  0.11
+|   |   |   |   |   |   |--- value: [73.20]
+|   |   |   |   |--- pixel size(mm) >  0.11
+|   |   |   |   |   |--- pixel size(mm) <= 0.11
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.11
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.11
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.11
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.11
+|   |   |   |   |   |   |   |   |   |   |--- value: [164.97]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.11
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.11
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.11
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [171.26]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.11
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.11
+|   |   |   |   |   |   |   |   |   |   |--- value: [168.93]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.11
+|   |   |   |   |   |   |   |   |   |   |--- value: [166.72]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.11
+|   |   |   |   |   |   |   |   |--- value: [180.20]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.11
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.11
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.11
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.11
+|   |   |   |   |   |   |   |   |   |   |--- value: [161.60]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.11
+|   |   |   |   |   |   |   |   |   |   |--- value: [165.28]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.11
+|   |   |   |   |   |   |   |   |   |--- value: [75.88]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.11
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.11
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.11
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.11
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.11
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.11
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.11
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [155.80]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.11
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.11
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.11
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.11
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [62.80]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.11
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.11
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.11
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.11
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |--- pixel size(mm) >  0.11
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.12
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.11
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.11
+|   |   |   |   |   |   |   |   |   |--- value: [67.30]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.11
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.11
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.11
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.11
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [94.35]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.11
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.11
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [169.04]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.11
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.11
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.11
+|   |   |   |   |   |   |   |   |   |--- value: [80.32]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.11
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.12
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.12
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.12
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.12
+|   |   |   |   |   |   |   |   |   |   |--- value: [69.80]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.12
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.12
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.12
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.12
+|   |   |   |   |   |   |   |   |   |   |--- value: [196.90]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.12
+|   |   |   |   |   |   |   |   |   |   |--- value: [197.90]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.12
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.12
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.12
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.12
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [166.74]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.12
+|   |   |   |   |   |   |   |   |   |   |--- value: [181.76]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.12
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.12
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.12
+|   |   |   |   |   |   |   |   |   |   |--- value: [65.71]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.12
+|   |   |   |   |   |   |   |   |   |   |--- value: [73.98]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.12
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.12
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.12
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [179.90]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.12
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.12
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.12
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [186.63]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.12
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [177.39]
+|   |   |   |--- pixel size(mm) >  0.12
+|   |   |   |   |--- pixel size(mm) <= 0.12
+|   |   |   |   |   |--- value: [75.75]
+|   |   |   |   |--- pixel size(mm) >  0.12
+|   |   |   |   |   |--- value: [146.40]
+|   |   |--- pixel size(mm) >  0.12
+|   |   |   |--- pixel size(mm) <= 0.14
+|   |   |   |   |--- pixel size(mm) <= 0.14
+|   |   |   |   |   |--- pixel size(mm) <= 0.14
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.14
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.13
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.13
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.13
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.12
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 10
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.12
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 13
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.13
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.13
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [72.70]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.13
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.13
+|   |   |   |   |   |   |   |   |   |--- value: [75.64]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.13
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.13
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.13
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.13
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 12
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.13
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.13
+|   |   |   |   |   |   |   |   |   |   |--- value: [88.50]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.13
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.13
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.13
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.13
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.13
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.14
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.14
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |--- pixel size(mm) >  0.14
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.14
+|   |   |   |   |   |   |   |   |--- value: [105.50]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.14
+|   |   |   |   |   |   |   |   |--- value: [165.67]
+|   |   |   |   |   |--- pixel size(mm) >  0.14
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.14
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.14
+|   |   |   |   |   |   |   |   |--- value: [178.97]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.14
+|   |   |   |   |   |   |   |   |--- value: [218.70]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.14
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.14
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.14
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.14
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.14
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [168.33]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.14
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [173.96]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.14
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.14
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [165.17]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.14
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [170.44]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.14
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.14
+|   |   |   |   |   |   |   |   |   |   |--- value: [186.91]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.14
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.14
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [161.70]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.14
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.14
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.14
+|   |   |   |   |   |   |   |   |   |--- value: [224.00]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.14
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.14
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.14
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [167.28]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.14
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.14
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.14
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.14
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [192.60]
+|   |   |   |   |--- pixel size(mm) >  0.14
+|   |   |   |   |   |--- value: [111.50]
+|   |   |   |--- pixel size(mm) >  0.14
+|   |   |   |   |--- pixel size(mm) <= 0.14
+|   |   |   |   |   |--- pixel size(mm) <= 0.14
+|   |   |   |   |   |   |--- value: [186.25]
+|   |   |   |   |   |--- pixel size(mm) >  0.14
+|   |   |   |   |   |   |--- value: [249.50]
+|   |   |   |   |--- pixel size(mm) >  0.14
+|   |   |   |   |   |--- pixel size(mm) <= 0.15
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.15
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.14
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.14
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.14
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.14
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.14
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [178.30]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.14
+|   |   |   |   |   |   |   |   |   |   |--- value: [196.00]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.14
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.14
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.14
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [173.40]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.14
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [172.10]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.14
+|   |   |   |   |   |   |   |   |   |   |--- value: [174.13]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.14
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.15
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.14
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.14
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.14
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [185.83]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.14
+|   |   |   |   |   |   |   |   |   |   |--- value: [181.10]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.15
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.15
+|   |   |   |   |   |   |   |   |   |   |--- value: [197.72]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.15
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.15
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [189.78]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.15
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [182.30]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.15
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.15
+|   |   |   |   |   |   |   |   |--- value: [155.60]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.15
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.15
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.15
+|   |   |   |   |   |   |   |   |   |   |--- value: [174.79]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.15
+|   |   |   |   |   |   |   |   |   |   |--- value: [174.99]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.15
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.15
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.15
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.15
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [182.80]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.15
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.15
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.15
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |--- pixel size(mm) >  0.15
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.15
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.15
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.15
+|   |   |   |   |   |   |   |   |   |--- value: [215.46]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.15
+|   |   |   |   |   |   |   |   |   |--- value: [231.20]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.15
+|   |   |   |   |   |   |   |   |--- value: [247.82]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.15
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.16
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.15
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.15
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.15
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [173.30]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.15
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [169.65]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.15
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.15
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [180.30]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.15
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.15
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.15
+|   |   |   |   |   |   |   |   |   |   |--- value: [258.80]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.15
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.16
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.16
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [225.40]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.16
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.16
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.16
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.16
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.16
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [212.10]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.16
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.16
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [89.80]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.16
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [160.40]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.16
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.16
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.16
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.16
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [199.30]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.16
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.16
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [145.70]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.16
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|--- pixel size(mm) >  0.17
+|   |--- pixel size(mm) <= 0.20
+|   |   |--- pixel size(mm) <= 0.20
+|   |   |   |--- pixel size(mm) <= 0.19
+|   |   |   |   |--- pixel size(mm) <= 0.19
+|   |   |   |   |   |--- pixel size(mm) <= 0.17
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.17
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.17
+|   |   |   |   |   |   |   |   |--- value: [275.90]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.17
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.17
+|   |   |   |   |   |   |   |   |   |--- value: [246.60]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.17
+|   |   |   |   |   |   |   |   |   |--- value: [226.90]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.17
+|   |   |   |   |   |   |   |--- value: [98.20]
+|   |   |   |   |   |--- pixel size(mm) >  0.17
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.18
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.18
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.17
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.17
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.17
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [272.10]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.17
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [283.80]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.17
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.17
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [265.50]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.17
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [272.72]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.17
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.18
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.18
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.18
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [161.80]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.18
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.18
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.18
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [267.70]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.18
+|   |   |   |   |   |   |   |   |--- value: [308.50]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.18
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.18
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.18
+|   |   |   |   |   |   |   |   |   |--- value: [173.10]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.18
+|   |   |   |   |   |   |   |   |   |--- value: [125.20]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.18
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.19
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.18
+|   |   |   |   |   |   |   |   |   |   |--- value: [274.39]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.18
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.19
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [280.20]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.19
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [278.34]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.19
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.19
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.19
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.19
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [173.30]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.19
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.19
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [247.10]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.19
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [302.80]
+|   |   |   |   |--- pixel size(mm) >  0.19
+|   |   |   |   |   |--- pixel size(mm) <= 0.19
+|   |   |   |   |   |   |--- value: [116.75]
+|   |   |   |   |   |--- pixel size(mm) >  0.19
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.19
+|   |   |   |   |   |   |   |--- value: [176.65]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.19
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.19
+|   |   |   |   |   |   |   |   |--- value: [169.40]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.19
+|   |   |   |   |   |   |   |   |--- value: [171.79]
+|   |   |   |--- pixel size(mm) >  0.19
+|   |   |   |   |--- pixel size(mm) <= 0.19
+|   |   |   |   |   |--- value: [328.59]
+|   |   |   |   |--- pixel size(mm) >  0.19
+|   |   |   |   |   |--- pixel size(mm) <= 0.20
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.20
+|   |   |   |   |   |   |   |--- value: [280.65]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.20
+|   |   |   |   |   |   |   |--- value: [234.00]
+|   |   |   |   |   |--- pixel size(mm) >  0.20
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.20
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.20
+|   |   |   |   |   |   |   |   |--- value: [292.44]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.20
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.20
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.20
+|   |   |   |   |   |   |   |   |   |   |--- value: [282.80]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.20
+|   |   |   |   |   |   |   |   |   |   |--- value: [283.53]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.20
+|   |   |   |   |   |   |   |   |   |--- value: [290.84]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.20
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.20
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.20
+|   |   |   |   |   |   |   |   |   |--- value: [298.64]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.20
+|   |   |   |   |   |   |   |   |   |--- value: [307.00]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.20
+|   |   |   |   |   |   |   |   |--- value: [284.10]
+|   |   |--- pixel size(mm) >  0.20
+|   |   |   |--- pixel size(mm) <= 0.20
+|   |   |   |   |--- value: [120.10]
+|   |   |   |--- pixel size(mm) >  0.20
+|   |   |   |   |--- pixel size(mm) <= 0.20
+|   |   |   |   |   |--- pixel size(mm) <= 0.20
+|   |   |   |   |   |   |--- value: [284.20]
+|   |   |   |   |   |--- pixel size(mm) >  0.20
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.20
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.20
+|   |   |   |   |   |   |   |   |--- value: [174.10]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.20
+|   |   |   |   |   |   |   |   |--- value: [294.50]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.20
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.20
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.20
+|   |   |   |   |   |   |   |   |   |--- value: [185.60]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.20
+|   |   |   |   |   |   |   |   |   |--- value: [134.00]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.20
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.20
+|   |   |   |   |   |   |   |   |   |--- value: [220.90]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.20
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.20
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.20
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [194.60]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.20
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [204.60]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.20
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.20
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [160.00]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.20
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [204.30]
+|   |   |   |   |--- pixel size(mm) >  0.20
+|   |   |   |   |   |--- pixel size(mm) <= 0.20
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.20
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.20
+|   |   |   |   |   |   |   |   |--- value: [278.40]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.20
+|   |   |   |   |   |   |   |   |--- value: [175.90]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.20
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.20
+|   |   |   |   |   |   |   |   |--- value: [294.70]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.20
+|   |   |   |   |   |   |   |   |--- value: [284.71]
+|   |   |   |   |   |--- pixel size(mm) >  0.20
+|   |   |   |   |   |   |--- value: [164.80]
+|   |--- pixel size(mm) >  0.20
+|   |   |--- pixel size(mm) <= 0.22
+|   |   |   |--- pixel size(mm) <= 0.21
+|   |   |   |   |--- pixel size(mm) <= 0.21
+|   |   |   |   |   |--- pixel size(mm) <= 0.21
+|   |   |   |   |   |   |--- value: [314.10]
+|   |   |   |   |   |--- pixel size(mm) >  0.21
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.21
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.21
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.21
+|   |   |   |   |   |   |   |   |   |--- value: [299.97]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.21
+|   |   |   |   |   |   |   |   |   |--- value: [306.10]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.21
+|   |   |   |   |   |   |   |   |--- value: [279.20]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.21
+|   |   |   |   |   |   |   |--- value: [311.40]
+|   |   |   |   |--- pixel size(mm) >  0.21
+|   |   |   |   |   |--- pixel size(mm) <= 0.21
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.21
+|   |   |   |   |   |   |   |--- value: [229.40]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.21
+|   |   |   |   |   |   |   |--- value: [224.70]
+|   |   |   |   |   |--- pixel size(mm) >  0.21
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.21
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.21
+|   |   |   |   |   |   |   |   |--- value: [260.80]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.21
+|   |   |   |   |   |   |   |   |--- value: [305.99]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.21
+|   |   |   |   |   |   |   |--- value: [233.30]
+|   |   |   |--- pixel size(mm) >  0.21
+|   |   |   |   |--- pixel size(mm) <= 0.22
+|   |   |   |   |   |--- pixel size(mm) <= 0.21
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.21
+|   |   |   |   |   |   |   |--- value: [317.62]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.21
+|   |   |   |   |   |   |   |--- value: [324.61]
+|   |   |   |   |   |--- pixel size(mm) >  0.21
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.21
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.21
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.21
+|   |   |   |   |   |   |   |   |   |--- value: [311.16]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.21
+|   |   |   |   |   |   |   |   |   |--- value: [312.81]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.21
+|   |   |   |   |   |   |   |   |--- value: [286.40]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.21
+|   |   |   |   |   |   |   |--- value: [327.12]
+|   |   |   |   |--- pixel size(mm) >  0.22
+|   |   |   |   |   |--- pixel size(mm) <= 0.22
+|   |   |   |   |   |   |--- value: [288.90]
+|   |   |   |   |   |--- pixel size(mm) >  0.22
+|   |   |   |   |   |   |--- value: [296.44]
+|   |   |--- pixel size(mm) >  0.22
+|   |   |   |--- pixel size(mm) <= 0.22
+|   |   |   |   |--- pixel size(mm) <= 0.22
+|   |   |   |   |   |--- value: [195.90]
+|   |   |   |   |--- pixel size(mm) >  0.22
+|   |   |   |   |   |--- value: [163.10]
+|   |   |   |--- pixel size(mm) >  0.22
+|   |   |   |   |--- pixel size(mm) <= 0.24
+|   |   |   |   |   |--- pixel size(mm) <= 0.24
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.23
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.22
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.22
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.22
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.22
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [293.40]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.22
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [287.15]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.22
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.22
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [241.70]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.22
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.22
+|   |   |   |   |   |   |   |   |   |--- value: [193.00]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.22
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.22
+|   |   |   |   |   |   |   |   |   |--- value: [327.57]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.22
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.23
+|   |   |   |   |   |   |   |   |   |   |--- value: [260.57]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.23
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.23
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [315.80]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.23
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [311.82]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.23
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.24
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.23
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.23
+|   |   |   |   |   |   |   |   |   |   |--- value: [251.80]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.23
+|   |   |   |   |   |   |   |   |   |   |--- value: [258.10]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.23
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.23
+|   |   |   |   |   |   |   |   |   |   |--- value: [225.20]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.23
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.24
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [189.10]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.24
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [210.86]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.24
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.24
+|   |   |   |   |   |   |   |   |   |--- value: [291.90]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.24
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.24
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.24
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [213.20]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.24
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [231.50]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.24
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.24
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.24
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |--- pixel size(mm) >  0.24
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.24
+|   |   |   |   |   |   |   |--- value: [176.30]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.24
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.24
+|   |   |   |   |   |   |   |   |--- value: [186.20]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.24
+|   |   |   |   |   |   |   |   |--- value: [179.50]
+|   |   |   |   |--- pixel size(mm) >  0.24
+|   |   |   |   |   |--- pixel size(mm) <= 0.32
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.28
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.26
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.26
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.26
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.26
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.26
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.26
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.26
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [206.90]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.26
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [278.10]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.26
+|   |   |   |   |   |   |   |   |   |--- value: [312.49]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.26
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.27
+|   |   |   |   |   |   |   |   |   |--- value: [217.88]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.27
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.28
+|   |   |   |   |   |   |   |   |   |   |--- value: [279.40]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.28
+|   |   |   |   |   |   |   |   |   |   |--- value: [264.55]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.28
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.30
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.30
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.28
+|   |   |   |   |   |   |   |   |   |   |--- value: [316.48]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.28
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.29
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [324.00]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.29
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [329.26]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.30
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.30
+|   |   |   |   |   |   |   |   |   |   |--- value: [313.22]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.30
+|   |   |   |   |   |   |   |   |   |   |--- value: [315.30]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.30
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.31
+|   |   |   |   |   |   |   |   |   |--- value: [270.50]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.31
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.32
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.31
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [314.32]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.31
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [314.98]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.32
+|   |   |   |   |   |   |   |   |   |   |--- value: [283.50]
+|   |   |   |   |   |--- pixel size(mm) >  0.32
+|   |   |   |   |   |   |--- pixel size(mm) <= 0.37
+|   |   |   |   |   |   |   |--- pixel size(mm) <= 0.33
+|   |   |   |   |   |   |   |   |--- value: [220.82]
+|   |   |   |   |   |   |   |--- pixel size(mm) >  0.33
+|   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.33
+|   |   |   |   |   |   |   |   |   |--- value: [288.16]
+|   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.33
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.34
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) <= 0.33
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [245.30]
+|   |   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.33
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [241.70]
+|   |   |   |   |   |   |   |   |   |--- pixel size(mm) >  0.34
+|   |   |   |   |   |   |   |   |   |   |--- value: [291.30]
+|   |   |   |   |   |   |--- pixel size(mm) >  0.37
+|   |   |   |   |   |   |   |--- value: [172.69]
